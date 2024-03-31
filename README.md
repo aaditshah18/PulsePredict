@@ -6,7 +6,7 @@
 
 ## Abstract
 
-The objective of this project is to construct a predictive model to assess the likelihood of a heart attack using a heart attack analysis dataset. The dataset comprises 303 entries with predictions based on various factors. Key features include:
+The objective of this project is to construct a predictive model to assess the likelihood of a heart attack using a heart attack analysis dataset. Key features include:
 
 - **Age**: Age of the patient *(Numerical)*
 - **Sex**: Sex of the patient *(Categorical)*
